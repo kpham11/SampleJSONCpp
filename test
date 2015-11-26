@@ -1,0 +1,9 @@
+{
+  "encoding" : "BLAH",
+  "plug-ins" : [
+    "python",
+    "c++",
+    "ruby"
+  ],
+  "indent" : { "length" : 3, "use_space": true }
+}
