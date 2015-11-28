@@ -1,0 +1,22 @@
+{
+   "aircraft" : {
+      "1" : {
+         "distance" : 50,
+         "planeID" : 1,
+         "velocity" : [ 10, 20, 30 ]
+      },
+      "2" : {
+         "distance" : 250,
+         "planeID" : 2,
+         "velocity" : [ 10, 20, 30 ]
+      }
+   },
+   "ownship" : {
+      "altitude" : 27603,
+      "down" : 0,
+      "east" : 0,
+      "latitude" : 80,
+      "longitude" : 125,
+      "north" : 2400
+   }
+}
